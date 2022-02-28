@@ -1,0 +1,19 @@
+# IDEAS FOR GCS FITTING TOOL
+
+This is the file where we can put ideas for future improvments and tweaks that would make the program work better and be more useful for all of us. I tried to divide it into a few sections. Give suggestions, put questions, note things that are missing or that are not needed.
+
+## PLOTTING
+
+The fitting can actually be done with other coronagraphs other than C3 C2, STA and STB. What happens if we have another POV?
+The plotting should have 2 images for each spacecraft, some Delta(t) apart. with that and a second height slider the speed and time of insertion at 21.5 Rs should be easily calculated which would save time and confusion about how to do it.
+
+
+## IMAGE SELECTION
+
+The other program in the git is a trial for making a more adequate selection of images, and checking what are the available ones. It would be nice if it is interactive a bit and play around with the available images for then doing the plotting (like when you try to do a StereoCAT fit)
+
+## CODE OPTIMIZATION
+the geometry file has a lot of extra stuff that I added and might not be necessary.
+
+#EXTRA STUFF
+
