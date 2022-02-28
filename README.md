@@ -1,4 +1,7 @@
 # GCS_tool GIT
+Any comments, suggestions, ideas, modifications etc that you might have send them to me or edit the IDEAS.txt file (and notify me of a change as well please)
+Hope this is useful!
+
 ## geometry.py:
 This file is the one with the geometry for the GCS fit. 
 
