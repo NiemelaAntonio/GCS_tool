@@ -18,8 +18,8 @@ Instrucitons:
 5) Modify the transpaerncy and amount of points until you are happy.
 6) Save the images at your deired location.
 
-# IMPORTANT
-The final result box is the one that has the parameters that should be input for CME models. Dont use the Half-Angle as the Half-Width because they are not the same!
-
 ## Image_viewer.py
 This is a work in progress that would be useful for checking which images are available with the helioviewer tool for python before setting a date for doing the GCS fitting
+
+# IMPORTANT
+The final result box is the one that has the parameters that should be input for CME models. Dont use the Half-Angle as the Half-Width because they are not the same!
